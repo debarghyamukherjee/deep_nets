@@ -1,2 +1,2 @@
-# deep_nets
-A Deep Learning Neural Network For Sentiment Classification
+# Sentiment Classification
+A Deep Learning Neural Network Using TensorFlow For Sentiment Classification with Three Hidden Layers.
